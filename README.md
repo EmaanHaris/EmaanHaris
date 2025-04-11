@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmaanHaris
 - 👀 I’m interested in mobile application development and 3d modelling
-- 🌱 I’m currently learning Flutter Framework and machine learning 
+- 🌱 I’m currently learning Flutter Framework and machine learning and applying them on my final year project
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: emanharisch@gmail.com
 - ⚡ Fun fact: I love to read murder mystery novels :)
